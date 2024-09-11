@@ -7,3 +7,5 @@ mindegyiken van egy felirat, de csak az egyik igaz
 Arany: "Én rejtem a kincset"
 Ezüst: "Nem én rejtem a kincset"
 Bronz: "Az arany láda hazudik"
+
+## A bronz láda mond igazat, az ezüstben van a kincs
